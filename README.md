@@ -57,7 +57,6 @@ has_many :job_information
 | ad_copy                 | text       | null: false                    |
 | appeal_title            | string     |                                |
 | appeal_text             | text       |                                |
-
 | location                | string     | null: false                    |
 | employment_status       | string     | null: false                    |
 | type_of_occupation      | string     | null: false                    |
