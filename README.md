@@ -118,12 +118,8 @@ belongs to :salon
 [![Image from Gyazo](https://i.gyazo.com/c7f598e473611bb1bccea46bbdede745.png)](https://gyazo.com/c7f598e473611bb1bccea46bbdede745)
 
 ## 開発環境
-・フロントエンド  
-・バックエンド  
-・インフラ  
-・テスト  
-・テキストエディタ  
-・タスク管理  
+Ruby/Ruby on Rails/MySQL/Github/render/Visual Studio Code
+
 
 ## ローカルでの動作方法
 以下のコマンドを順に実行  
